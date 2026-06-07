@@ -156,7 +156,7 @@ Then open the local Vite URL shown in the terminal.
 
 ## Author
 
-Ishan Maitra - AI Developer
-Contact no. - +91 9674026774
-Email id - ishanmaitra2012@gamil.com
-Github - https://github.com/maitrawebtech/
+- Ishan Maitra - AI Developer
+- Contact no. - +91 9674026774
+- Email id - ishanmaitra2012@gamil.com
+- Github - https://github.com/maitrawebtech/
