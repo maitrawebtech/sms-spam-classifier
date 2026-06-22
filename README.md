@@ -9,7 +9,7 @@ The app takes an SMS message as input and returns:
 - `spam` or `ham` prediction
 - Confidence score
 - Raw spam probability
-- Threshold used by the final model it is a spam or ham protec
+- Threshold used by the final model 
 - Model type selected during training
 
 ## Files In This Project
